@@ -1,7 +1,6 @@
-START Detached:	docker-compose -p rt up -d
-STOP: 	docker-compose -p rt down
-START Undetached: docker-compose -p rt up -d
-
+* START Detached:	docker-compose -p rt up -d
+* STOP: 	docker-compose -p rt down
+  START Undetached: docker-compose -p rt up -d
 
 .:
 total 4
